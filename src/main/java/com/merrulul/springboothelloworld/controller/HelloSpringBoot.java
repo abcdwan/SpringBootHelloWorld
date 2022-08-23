@@ -16,6 +16,6 @@ public class HelloSpringBoot {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello GitHub";
+        return "Test WebHook";
     }
 }
